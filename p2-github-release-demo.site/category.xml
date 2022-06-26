@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="p2-github-release-demo.feature_0.0.0.jar" id="p2-github-release-demo.feature" version="0.0.0">
+      <category name="p2-github-release-demo" />
+   </feature>
+   <feature url="p2-github-release-demo.feature.source_0.0.0.jar" id="p2-github-release-demo.feature.source" version="0.0.0">
+      <category name="p2-github-release-demo Developer Resources" />
+   </feature>
+</site>

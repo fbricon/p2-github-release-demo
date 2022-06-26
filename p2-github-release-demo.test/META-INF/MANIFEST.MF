@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: p2-github-release-demo Test Fragment
+Bundle-SymbolicName: p2-github-release-demo.test
+Bundle-Version: 0.0.1.qualifier
+Fragment-Host: p2-github-release-demo.core;bundle-version="0.0.1"
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Require-Bundle: org.eclipse.jdt.junit4.runtime;bundle-version="1.1.0",
+ org.junit;bundle-version="4.11"
+Automatic-Module-Name: p2-github-release-demo.test

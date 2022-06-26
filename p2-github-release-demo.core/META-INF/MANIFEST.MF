@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: p2-github-release-demo Core Plugin
+Bundle-SymbolicName: p2-github-release-demo.core;singleton:=true
+Bundle-Version: 0.0.1.qualifier
+Bundle-Activator: foo.bar.demo.core.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Automatic-Module-Name: p2-github-release-demo.core
